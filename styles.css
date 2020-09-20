@@ -1,0 +1,35 @@
+.container {
+  max-width: 1024px;
+  margin: auto;
+}
+
+.section {
+  margin: 20px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.divider {
+  height: 2px;
+  background-color: #eee;
+}
+
+.inline {
+  display: inline;
+}
+
+.label {
+  color: #a2a2a2;
+}
+
+.section-content {
+  margin-top: 15px;
+}
+
+.work-experience-title {
+  margin-bottom: 5px;
+}
