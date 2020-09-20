@@ -8,3 +8,8 @@
 
 +998 93 395-44-48
 
+## About
+
+Very good time management skills, very organised, self-confident. 
+
+
