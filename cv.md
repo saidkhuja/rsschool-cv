@@ -13,3 +13,10 @@
 Very good time management skills, very organised, self-confident. 
 
 
+## Work experience
+
+### Bravos Chemicals Group LLC (May 2016 - 2019)
+
+        1. Position: Owner/Managing Director
+        2. Duties:
+            supply and demand analysis (marketing and new product development)
